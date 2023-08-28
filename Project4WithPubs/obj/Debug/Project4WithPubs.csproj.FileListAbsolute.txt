@@ -1,0 +1,15 @@
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\bin\Debug\Project4WithPubs.exe.config
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\bin\Debug\Project4WithPubs.exe
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\bin\Debug\Project4WithPubs.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\bin\Debug\EntityFramework.dll
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\bin\Debug\EntityFramework.xml
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.csproj.AssemblyReference.cache
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.Form1.resources
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.Properties.Resources.resources
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.csproj.GenerateResource.cache
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.csproj.CopyComplete
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.exe
+C:\Users\halil\c_files\c_visual_studio_folder\Project4WithPubs\Project4WithPubs\obj\Debug\Project4WithPubs.pdb
