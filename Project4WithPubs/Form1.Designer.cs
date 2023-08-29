@@ -87,6 +87,7 @@
             this.cbxCategory.Name = "cbxCategory";
             this.cbxCategory.Size = new System.Drawing.Size(378, 24);
             this.cbxCategory.TabIndex = 1;
+            this.cbxCategory.SelectedIndexChanged += new System.EventHandler(this.cbxCategory_SelectedIndexChanged);
             // 
             // tbxProduct
             // 
